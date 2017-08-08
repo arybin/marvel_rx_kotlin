@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">AncestryTest</string>
+  <string name="marvel_public_api_key" translatable="false">bd9edabf93b598715b150112dfd8a0dd</string>
+  <string name="marvel_private_api_key" translatable="false">c4f915087c5675374106dfee5e2b1c86f322374a</string>
+  <string name="search_characters">Search Characters</string>
+</resources>
